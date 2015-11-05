@@ -1,0 +1,1 @@
+<?php require('HTML5.html'); ?>
